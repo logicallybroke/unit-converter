@@ -5,5 +5,9 @@
   "description": "A basic example extension with only required keys",
   "icons": {
     "128": "logo.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
   }
 }
